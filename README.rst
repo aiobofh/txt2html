@@ -13,13 +13,10 @@ Requirements
 ------------
 
 You need to have the **wonderful** tool caooed "ditaa" by Stathis Siderisa
-vailable at:
+vailable at: http://ditaa.sourceforge.net
 
-.. ref::`http://ditaa.sourceforge.net/`
-
-Another required tool is the "rst2html" tool in python3-docutils:
-
-.. ref::`http://docutils.sourceforge.net/docs/user/tools.html#rst2html-py`
+Another required tool is the "rst2html" tool in python3-docutils available at:
+http://docutils.sourceforge.net/docs/user/tools.html#rst2html-py
 
 These tools are essentially the engine behind this little wrapper script, so
 the authors of those basically get all the credit, from my point of view.
