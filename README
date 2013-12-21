@@ -9,6 +9,21 @@ of it to PNG-files using ditaa.
 
 Try it out and chack how it feels.
 
+Requirements
+------------
+
+You need to have the **wonderful** tool caooed "ditaa" by Stathis Siderisa
+vailable at:
+
+.. ref::`http://ditaa.sourceforge.net/`
+
+Another required tool is the "rst2html" tool in python3-docutils:
+
+.. ref::`http://docutils.sourceforge.net/docs/user/tools.html#rst2html-py`
+
+These tools are essentially the engine behind this little wrapper script, so
+the authors of those basically get all the credit, from my point of view.
+
 Plans
 -----
 
